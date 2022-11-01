@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  border: #282c34 solid 1px;
+  height: 400px;
+  width: 500px;
+  margin: 130px 0px 0px 400px;
+  background: linear-gradient(0.40turn, #3f87a6, #ebf8e1, #3ef7f0);
+}
+.img{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+.text{
+  font-size: x-large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
 }
 
 .App-logo {
